@@ -1,0 +1,111 @@
+.center{
+	height: 783px;
+	background-image: url(img/t15.png);
+	width: 100%;
+	position: absolute;
+}
+.center1{
+	width: 107px;
+	height: 34px;
+	position: absolute;
+	top: 53px;
+	left: 31%;
+	color: #fff;
+	background: #cb00da;
+	font-size: 18px;
+	font-family: "Microsoft Yahei";
+	line-height: 34px;
+	text-align: center;
+}
+.center2{
+	width: 40%;
+	height: 193px;
+	background: #fff;
+	position: absolute;
+	top: 87px;
+	left: 31%;
+	z-index: 5
+}
+.center3{
+	width: 40%;
+	height:149px;
+	position: absolute;
+	left: 33%;
+	top: 220px;
+	background-image:url(img/t20.png);
+	background-repeat: no-repeat;
+}
+.center4{
+	width: 25%;
+	height:149px;
+	position: absolute;
+	left: 38.5%;
+	top: 310px;
+	background-image:url(img/t16.png);
+	background-repeat: no-repeat;
+}
+.p1{
+	font-size: 16px;
+	color: #3b3b3b;
+	position: absolute;
+	top: 40px;
+	left: 14px;
+	font-family: "Microsoft Yahei";
+}
+.ai{
+	width: 12px;
+	height: 13px;
+	background-image: url(img/youxiang.png);
+	position: absolute;
+	left: 14px;
+	top: 90px;
+}
+.ap,.bp,.cp,.dp{
+	font-size: 14px;
+	color: 666px;
+	font-family: "Microsoft Yahei";
+	position: absolute;
+}
+.ap{
+	top: 88px;
+	left: 30px;
+}
+.bi{
+	width: 12px;
+	height: 20px;
+	position: absolute;
+	top: 86px;
+	left: 300px;
+	background-image: url(img/dianhua.png);
+}
+.bp{
+	top: 88px;
+	left: 314px;
+}
+.ci{
+	width: 12px;
+	height: 18px;
+	position: absolute;
+	background-image: url(img/t18.png);
+	left: 14px;
+	top: 135px;
+}
+.cp{
+	left: 26px;
+	top:135px;
+}
+.di{
+	width: 12px;
+	height: 15px;
+	position: absolute;
+	background-image: url(img/t19.png);
+	left: 300px;
+	top: 135px;
+}
+.dp{
+	left: 314px;
+	top: 135px;
+}
+.bottom{
+	margin-top: 783px;
+}

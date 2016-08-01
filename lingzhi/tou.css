@@ -1,0 +1,31 @@
+.top{
+	height: 44px;
+	background: #000;
+	width: 100%;
+	overflow: hidden;
+}
+.top_left{
+	font-size: 20px;
+	line-height: 44px;
+	color: #fff;
+	float: left;
+	margin-left: 12.5%;
+	font-family: "Microsoft Yahei";
+}
+.top_center a{
+	color: #fff;
+	font-size: 12px;
+	line-height: 44px;
+	text-align: center;
+	margin-left: 3%;
+	float: left;
+	font-family: "Microsoft Yahei";
+}
+.top_right{
+	width: 13px;
+	height: 18px;
+	float: right;
+	margin-right: 12.5%;
+	margin-top: 12px;
+	background-image: url(img/shousuo.png);
+}

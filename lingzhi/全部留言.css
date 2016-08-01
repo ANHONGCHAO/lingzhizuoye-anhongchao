@@ -1,0 +1,144 @@
+.center{
+	width: 100%;
+	height: 800px;
+	background: #09070e;
+	overflow: hidden;
+}
+.center1{
+	width: 75%;
+	height: 722px;
+	margin:auto;
+	margin-top: 40px;
+	background: #f5f5f5;
+	overflow: hidden;
+}
+.center_top{
+	width: 105px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 16px;
+	font-family: "Microsoft Yahei";
+	text-align: center;
+	background: #cb00da;
+	margin-left: 50px;
+	margin-top: 30px;
+	color: #fff;
+}
+.c_b{
+	width: 911px;
+	height: 585px;
+	margin-left: 50px;
+	border: 1px #bdbdbe solid;
+	background: #fff;
+}
+.liuyan1{
+	width: 810px;
+	height: 107px;
+	border-bottom: 2px #ebebeb dashed;
+	margin-left: 50px;
+}
+.liuyan2{
+	width: 810px;
+	height: 100px;
+	border-bottom: 2px #ebebeb dashed;
+	margin-left: 50px;
+}
+.liuyan3{
+	width:810px;
+	margin-left: 50px;
+	height: 90px;
+}
+.liu_left{
+	width: 53px;
+	height: 54px;
+	background-image: url(img/t29.png);
+	float: left;
+	margin-top: 26px;
+}
+.liu_left2{
+	width: 53px;
+	height: 54px;
+	background-image: url(img/t30.png);
+	float: left;
+	margin-top: 26px;
+}
+.liu_left3{
+	width: 53px;
+	height: 54px;
+	background-image: url(img/t31.png);
+	float: left;
+	margin-top: 26px;
+}
+.liu_center{
+	float: left;
+	margin-left: 15px;
+
+}
+.liu_right{
+	float: right;
+}
+.center span{
+	font-size: 12px;
+}
+#span1{
+	color: #3f3f3f;
+	margin-top: 28px;
+	font-size: 14px;
+}
+.span2{
+	color: #8c8c8c;
+	margin-top: 10px;
+}
+#p1{
+	color: #bbbbbb;
+	font-size: 12px;
+	margin-top: 30px;
+}
+.span3{
+	color: #676767;
+	border-right: 2px #676767 solid;
+	padding-right: 5px;
+}
+.ii{
+	width: 12px;
+	height: 10px;
+	float: right;
+	margin-left: 10px;
+	margin-top: 5px;
+
+	background-image: url(img/t17.png);
+}
+
+
+
+
+.c_bottom{
+	float:right;
+	margin-right: 8.5%;
+	font-size: 12px;
+}
+.suru{
+	width: 39px;
+	height: 23px;
+}
+input{
+	background: #ebebeb;
+	margin-top: 37px;
+}
+.an1{
+	width: 23px;
+	height: 23px;	
+}
+.an2{
+	width: 50px;
+	height: 23px;
+}
+.c_bottom span{
+	font-size: 12px;
+	color: #000;
+	font-family: "Microsoft Yahei";
+}
+.an1:hover,.an2:hover{
+	background: #7b2783;
+	color: #fff;
+}
